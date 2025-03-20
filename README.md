@@ -185,7 +185,17 @@ sudo apt install python3 python3-pip
 # Java Development Kit
 sudo apt install openjdk-17-jdk
 ```
+---
+
+## 🤝 Contribua
+
+Sinta-se à vontade para contribuir com este repositório adicionando mais atalhos úteis ou corrigindo informações existentes. Basta fazer um fork, implementar suas alterações e enviar um pull request.
 
 ---
+
+### Entre em Contato
+
+🔗 [LinkedIn](https://linkedin.com/in/lvsodre)  
+💻 [GitHub](https://github.com/lvsodre)
 
 Feito com ❤️ por Leandro Venturini Sodré
